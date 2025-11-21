@@ -1,0 +1,6 @@
+se abre la terminal con ctrl + j
+Crear un repositorio local de git
+
+git init (inicializamos el repositorio local)
+
+para dar seguimiento a nuestros archivos vamos a usar el comando --> git add index.html
